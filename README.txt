@@ -1,4 +1,3 @@
-© this project folder belongs to Nethra (S20180010061)
 __________________________________________________
 D E S C R I P T I O N
 __________________________________________________
@@ -46,4 +45,3 @@ A demo video showig the working proof of all algorithms for both the games is th
 __________________________________________________
 T H A N K   Y O U
 __________________________________________________
-© this project folder belongs to Nethra (S20180010061)
